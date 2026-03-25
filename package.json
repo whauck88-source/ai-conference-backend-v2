@@ -1,5 +1,0 @@
-{
-  "name": "ai-conference-proxy",
-  "version": "1.0.0",
-  "scripts": { "build": "echo ok" }
-}
